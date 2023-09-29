@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LUJxAIN
-- 👀 I’m interested in UI/UX and AI
+- 👀 I’m interested in UI/UX, software and web development, and AI
 - 🌱 I’m currently learning Python, machine learning, and Flutter
 - 💞️ 
 - 📫 
